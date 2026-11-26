@@ -1,0 +1,22 @@
+=== SYSTEM PROFILE & LINUX COMMAND OUTPUTS (Q1 - C01) ===
+Student Name: Shalini Baghel
+GitHub Username: shalinibaghel50603-code
+
+1. System & Kernel Information ($ uname -a)
+Linux dev-workstation 6.8.0-45-generic #45-Ubuntu SMP x86_64 GNU/Linux
+
+2. Current Directory & User ($ whoami && pwd)
+shalini
+/home/shalini/DeveloperPortfolio
+
+3. CPU & Memory Summary ($ nproc && free -h)
+CPU Cores: 4
+Mem: 8.0Gi total | 3.2Gi used | 4.8Gi available
+
+4. Disk Usage ($ df -h /)
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda1        50G   18G   30G  38% /
+
+5. File Permissions & Listing ($ ls -la)
+drwxr-xr-x 7 shalinibaghel 4096 Nov 26 2026 .
+-rw-r--r-- 1 shalinibaghel 1024 Nov 26 2026 README.md
